@@ -1,0 +1,2 @@
+Title: NNs - as Universal Approximators 
+Abstract: The 13th problem of David Hilbert (1900) laid foundations of "compositional approximation". The idea is somewhat tangential to the notion of superposition of functions, i.e. Fourier like expansions. In this talk, we will revisit the path less taken by the practitioners of Deep Learning and spend considerable time deconstructing the universal approximation theorem statements: "\sigma-net is dense in ...". The discussions will be substantiated by hands-on exercises in Python (Keras). 
